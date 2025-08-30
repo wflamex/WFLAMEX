@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hewwo!🐾 My name is wflamex and I'm a creator of the games ✨
 
 <!--
 **wflamex/WFLAMEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
