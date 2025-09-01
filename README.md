@@ -4,7 +4,7 @@
 **wflamex/WFLAMEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://raw.githubusercontent.com/wflamex/assets/main/frontend-dark.png" alt="Frontend" width="32" style="vertical-align:middle; margin-right:8px;"/>
 - 🔭 I’m currently working on my own "Dragon Flames" proj.
 
 - 🌱 I’m currently learning C# for Unity!
@@ -19,7 +19,7 @@ _Я нахожу в этом свою отдушину и мне действи�
 
 ---
 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="Frontend" width="32" style="vertical-align:middle; margin-right:8px;"/> **Также имею опыт Frontend разработки:**
+<img src="https://cdn-icons-png.flaticon.com/512/4817/4817551.png" alt="Frontend" width="32" style="vertical-align:middle; margin-right:8px;"/> **Также имею опыт Frontend разработки:**
 
 - _HTML_
 - _CSS_
