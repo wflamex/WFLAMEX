@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: she/her/derg
 -->
- ---
 
 <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="32" style="vertical-align:middle; margin-right:8px;"/> **Я C# Unity разработчик с опытом создания игр и интерактивных приложений.**
 _Я нахожу в этом свою отдушину и мне действительно нравится этим заниматься, чему я и посвящаю свой GitHub!_
